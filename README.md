@@ -10,3 +10,5 @@ Jonathan Medina Gonzales
 
 el programa se debe ejecutar con g++ con los siguientes comandos : 
 
+g++ main.cpp -o main -I./conexion.h -I/usr/include/postgresql -lpq
+
